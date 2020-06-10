@@ -1,6 +1,6 @@
 # Dragon Go Server docker image
 
-The source for the [Dragon Go Server](http://dragongoserver.net) is readily [available](https://sourceforge.net/p/dragongoserver/dgs-main/ci/master/tree/) for you to run your own copy for development or other purposes. This docker image sets up Apache/Mysql/PHP and deploys a fresh copy.
+The source for the [Dragon Go Server](http://dragongoserver.net) is readily [available](https://sourceforge.net/p/dragongoserver/dgs-main/ci/master/tree/) for you to run your own copy for development or other purposes. This docker image sets up Apache/Mysql/PHP and deploys a fresh copy. On docker hub as `coljac/dragongo-dev:latest`.
 
 Best invoked to run on port 80 on localhost due to redirect issues.
 

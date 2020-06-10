@@ -8,4 +8,4 @@ Run as follows (see `run.sh`):
 
 `docker run --name dgs -p 80:80 coljac/dragongo-dev:latest`
 
-Then brows to `http://localhost/index.php`.
+Then browse to `http://localhost/index.php`.
